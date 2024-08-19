@@ -73,14 +73,4 @@ There are several potential extensions for this project:
    pip install -r requirements.txt
    ```
 3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/datasnaek/youtube-new) and place it in the `data/` directory.
-4. Train the model.
-   ```bash
-   python train.py --model {bert/gpt2} --lora --epochs 5
-   ```
-5. Evaluate the model.
-   ```bash
-   python evaluate.py --model {bert/gpt2}
-   ```
-
-## License
-This project is licensed under the MIT License.
+4. Run {GPT2 / BERT} .ipynb file
