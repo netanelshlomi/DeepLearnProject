@@ -1,7 +1,3 @@
-# DeepLearnProject
-BERT vs GPT2: YouTube video titles classifier
-
-
 # BERT vs GPT-2: YouTube Video Titles Classifier
 
 ## Project Overview
